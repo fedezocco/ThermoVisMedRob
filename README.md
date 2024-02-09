@@ -2,7 +2,8 @@
 This repository contains the source code and a demo video of the paper: Zocco, F., Sleath, D., and Rahimifard, S., 2024. Towards a thermodynamical deep-learning-vision-based flexible robotic cell for circular healthcare. arXiv preprint arXiv:2402.05551.  
 
 ## Overview of Files
-* MassDynamics.py: 
+* MassDynamics.py: Script to generate the numerical example of stock and flow dynamics and the circularity indicators covered in Section 3.2.
+* cellSimulator-v7.rdk: RoboDK simulator of the cell, version 7. The simulator is still under development.  
 
 ## Demo Video
 A demo video is available at: https://vimeo.com/904066383?share=copy. It is made up of the following 4 parts.
