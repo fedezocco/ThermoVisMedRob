@@ -16,5 +16,5 @@ The large screen inside the cell shows the camera view on the top-left side. The
 of one of the three screws. The cable is a disturbance and the main cause of the spikes in the tracking error as
 the neural network was trained without it.
 
-**00:55-01:12**: Analogous to Part 2, with the only difference that the screw being tracked is located on the top-right corner
+**00:55-01:12**: Analogous to the previous part, with the only difference that the screw being tracked is located on the top-right corner
 of the PCB.
