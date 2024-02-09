@@ -3,7 +3,7 @@ This repository contains the source code and a demo video of the paper: Zocco, F
 
 ## Overview of Files
 * _MassDynamics.py_: Script to generate the numerical example of stock and flow dynamics and the circularity indicators covered in Section 3.2.
-* _cellSimulator-v7.rdk_: RoboDK simulator of the cell, version 7. The simulator is still under development.
+* _cellSimulator-v7.rdk_: RoboDK simulator of the cell, version 7. Inhaler CAD model sourced from https://grabcad.com/library/generic-inhaler. 
 * _classifyMedDevices.ipynb_: Python notebook to be run on Jetson Nano for performing classification of medical devices.
 * _screwTracking.ipynb_: Python notebook to be run on Jetson Nano for performing the tracking of screws on PCBs.   
 
