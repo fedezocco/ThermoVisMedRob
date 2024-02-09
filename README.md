@@ -1,5 +1,5 @@
 # Towards a Thermodynamical Deep-Learning-Vision-Based Flexible Robotic Cell for Circular Healthcare
-This repository contains the source code and a demo video of the paper:  
+This repository contains the source code and a demo video of the paper: Zocco, F., Sleath, D., and Rahimifard, S., 2024. Towards a thermodynamical deep-learning-vision-based flexible robotic cell for circular healthcare. arXiv preprint arXiv:2402.05551.  
 
 ## Overview of Files
 
